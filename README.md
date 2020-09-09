@@ -1,7 +1,5 @@
 # Nícolas Carvalho 🎯
 
-**Innovation Intern** at [@Modal-GR](https://github.com/Modal-GR).
-
 I am passionate about solving problems with technology and I aim to use it to make life easier for people in the world.
 I have no problem with starting something from scratch.
 
