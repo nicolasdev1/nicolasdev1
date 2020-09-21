@@ -10,3 +10,5 @@ I have no problem with starting something from scratch.
   <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Nícolas%20Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasdev1/)](https://www.linkedin.com/in/nicolasdev1/) 
 | 
 [![Icloud Badge](https://img.shields.io/badge/-nicolaspessoal@icloud.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:nicolaspessoal@icloud.com)](mailto:nicolaspessoal@icloud.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdev1&theme=default&layout=compact)
