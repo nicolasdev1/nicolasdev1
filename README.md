@@ -12,4 +12,4 @@ I have no problem with starting something from scratch.
 [![Icloud Badge](https://img.shields.io/badge/-nicolaspessoal@icloud.com-3395ec?style=flat-square&logo=Icloud&logoColor=white&link=mailto:nicolaspessoal@icloud.com)](mailto:nicolaspessoal@icloud.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdev1&theme=default&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdev1&theme=graywhite&layout=compact)
