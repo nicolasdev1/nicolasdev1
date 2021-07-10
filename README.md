@@ -4,8 +4,8 @@ I am passionate about solving problems with technology and I aim to use it to ma
 I have no problem with starting something from scratch.
 
 :rocket:  &nbsp; Graduating in Computer Science
-  <br/> :smile: &nbsp; I seek to collaborate with projects in both front-end and back-end using Swift, ReactJS, React Native and Node.js
-  <br/> :computer: &nbsp; Currently working with Swift
+  <br/> :smile: &nbsp; I seek to collaborate with projects in both front-end and back-end using Swift, C#, ReactJS, React Native and Node.js
+  <br/> :computer: &nbsp; Currently working with Node.js
   <br/> 💬  &nbsp; I like technologies, eSports, Call Of Duty and code
   <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Nícolas%20Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasdev1/)](https://www.linkedin.com/in/nicolasdev1/) 
 | 
